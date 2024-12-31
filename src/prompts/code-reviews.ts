@@ -99,6 +99,8 @@ For the "suggestedAction" field, provide a single word that indicates the action
 
 ------
 For the "confidence" field, provide a number between 0 and 100 that indicates the confidence in the verdict.
+
+All responses are in Chinese Simplified.
 `;
 
 export const updateReviewPrompt = `
